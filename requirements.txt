@@ -3,4 +3,3 @@ webdriver-manager
 python-dotenv
 discord.py
 asyncio
-sqlite3
